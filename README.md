@@ -54,7 +54,6 @@ Welcome to the AI Recipe Generator API! This cutting-edge server leverages the p
 
 5. Set up the database:
    - Create a PostgreSQL database
-   - Run the SQL scripts in `database/migrations` to set up the schema
 
 6. Build the project:
    ```
