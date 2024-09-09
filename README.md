@@ -101,14 +101,11 @@ We welcome contributions! Please see our [Contributing Guide](CONTRIBUTING.md) f
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 🙏 Acknowledgements
 
-- OpenAI for the AI model
-- All our awesome contributors and users!
 
 ## 📞 Contact
 
-For any queries or support, please contact us at [your-email@example.com](mailto:your-email@example.com).
+For any queries or support, please contact us at [your-email@example.com](mailto:michaelgenchev24l@gmail.com).
 
 ---
 
